@@ -136,9 +136,7 @@ Table
 | External Hard Drive | 1 | 150
 
 Images 1
-
- ![](s6hina-repo\images\image1.jpeg)
+![](s6hina-repo\images\image1.jpeg)
 
  image 2
-
 ![](s6hina-repo\images\images2.png)
