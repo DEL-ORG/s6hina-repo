@@ -136,8 +136,7 @@ Table
 | External Hard Drive | 1 | 150
 
 Images 1
-![](\images\image1.jpeg)
+![](/images/image1.jpeg)
 
  image 2
-![](\images\images2.png)
-![](/images/devops-pipeline.JPG)
+![](/images/images2.png)
