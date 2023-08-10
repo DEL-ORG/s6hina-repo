@@ -140,3 +140,6 @@ Images 1
 
  image 2
 ![](/images/images2.png)
+
+
+![](../Pictures/images.jpeg)
